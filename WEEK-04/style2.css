@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+
+.main-content{
+    float: left;
+    width: 65%;
+    border: 2px solid black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+.sidebar{
+    float: right;
+    width: 30%;
+    border: 2px solid black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+footer{
+    clear: both;
+    border: 2px solid black;
+    margin-top: 20px;
+    padding: 15px;
+    text-align: center;
+}
