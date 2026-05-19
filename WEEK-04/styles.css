@@ -8,7 +8,11 @@ div.margin-box{
     margin: 90px;
     border:5px;
 }
-
+a {
+    color: white;
+    text-decoration: underline;
+    margin: 5px;
+}
 .border-box{
     background-color: red;
     padding: 20px;
